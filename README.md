@@ -2,28 +2,28 @@
 
 ## 📌 Project Overview
 
-### This project is a **PyData-based educational data analysis project** that focuses on analyzing student academic performance and evaluating teacher performance using student feedback.
+#### This project is a **PyData-based educational data analysis project** that focuses on analyzing student academic performance and evaluating teacher performance using student feedback.
 
-### The project uses Python data analysis and visualization techniques to transform educational data into meaningful insights. The analysis will explore student performance, attendance, study habits, academic results, teacher feedback, and changes in performance over time.
+#### The project uses Python data analysis and visualization techniques to transform educational data into meaningful insights. The analysis will explore student performance, attendance, study habits, academic results, teacher feedback, and changes in performance over time.
 
-### The main goal is to understand **what the data says about student academic performance and teaching effectiveness** and present the findings using clear statistical analysis and visualizations.
+#### The main goal is to understand **what the data says about student academic performance and teaching effectiveness** and present the findings using clear statistical analysis and visualizations.
 
 ---
 
 ## 🎯 Project Objectives
 
-### The project aims to:
+#### The project aims to:
 
-### * Analyze student academic performance using Python.
-### * Identify trends and patterns in student results.
-### * Analyze the relationship between attendance, study habits, assignments, and academic performance.
-### * Identify subjects or areas where students perform well or poorly.
-### * Analyze student feedback about teachers.
-### * Evaluate teacher performance based on student feedback.
-### * Compare teacher performance across different evaluation categories.
-### * Analyze how teacher feedback scores change over time.
-### * Explore the relationship between teacher performance and student academic performance.
-### * Present findings using meaningful tables, charts, and geographical visualizations where applicable.
+#### * Analyze student academic performance using Python.
+#### * Identify trends and patterns in student results.
+#### * Analyze the relationship between attendance, study habits, assignments, and academic performance.
+#### * Identify subjects or areas where students perform well or poorly.
+#### * Analyze student feedback about teachers.
+#### * Evaluate teacher performance based on student feedback.
+#### * Compare teacher performance across different evaluation categories.
+#### * Analyze how teacher feedback scores change over time.
+#### * Explore the relationship between teacher performance and student academic performance.
+#### * Present findings using meaningful tables, charts, and geographical visualizations where applicable.
 
 ---
 
